@@ -5,6 +5,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-XML-Data-Processing-Integration?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-XML-Data-Processing-Integration/stargazers)
 [![Repo Size](https://img.shields.io/github/repo-size/ishandutta2007/Awesome-XML-Data-Processing-Integration?style=flat-square)](https://github.com/ishandutta2007/Awesome-XML-Data-Processing-Integration)
+<a href="https://github.com/ishnndutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 <br/>
 
@@ -27,6 +28,8 @@
 - [💻 Open-Source Software & Frameworks](#-open-source-software--frameworks)
 - [📊 Feature Comparison at a Glance](#-feature-comparison-at-a-glance)
 - [🎯 SEO & Developer Key Terms](#-seo--developer-key-terms)
+- [💖 Support](#-support)
+- [🌟 Star History](#-star-history)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 
@@ -185,6 +188,23 @@ Explore actively maintained open-source XML data processing engines, enterprise 
 ## 🎯 SEO & Developer Key Terms
 
 `xml-data-processing` • `data-integration` • `ipaas-platforms` • `cloud-etl` • `xml-parser` • `xml-to-json` • `xsd-validation` • `xslt-transformation` • `xpath-query` • `dataweave` • `mulesoft-alternative` • `boomi-alternative` • `apache-camel` • `streaming-xml` • `zero-copy-parser` • `enterprise-integration-patterns`
+
+---
+
+## 💖 Support
+
+Thank you for exploring this curated guide to XML data processing and integration platforms! If you find this repository helpful, please consider showing your support:
+
+- ⭐ **Star** this repository to make it easier for other engineers and architects to find.
+- 🍴 **Fork** it to keep a personal copy or contribute your own benchmarks.
+- 📢 **Share** it with your developer community, colleagues, and friends.
+- ☕ **Buy me a coffee:** If this resource saved you engineering hours, consider sponsoring or buying a coffee via the [Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 🌟 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-XML-Data-Processing-Integration&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-XML-Data-Processing-Integration&type=date&legend=top-left)
 
 ---
 
