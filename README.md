@@ -3,7 +3,7 @@
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-XML-Data-Processing-Integration?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-XML-Data-Processing-Integration/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-XML-Data-Processing-Integration?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-XML-Data-Processing-Integration/stargazers)
 [![Repo Size](https://img.shields.io/github/repo-size/ishandutta2007/Awesome-XML-Data-Processing-Integration?style=flat-square)](https://github.com/ishandutta2007/Awesome-XML-Data-Processing-Integration)
 <a href="https://github.com/ishnndutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
@@ -62,89 +62,89 @@ Below is a detailed benchmark of commercial XML data processing, iPaaS, and tran
 
 ## 💻 Open-Source Software & Frameworks
 
-Explore actively maintained open-source XML data processing engines, enterprise integration routers, and native binding libraries. Sorted in descending order by **GitHub Stars** ⭐.
+Explore actively maintained open-source XML data processing engines, enterprise integration routers, and native binding libraries. Sorted in descending order by **GitHub_Stars** ⭐.
 
-### 1. [Airbyte](https://github.com/airbytehq/airbyte) [![GitHub stars](https://img.shields.io/github/stars/airbytehq/airbyte?style=social&color=white)](https://github.com/airbytehq/airbyte/stargazers)
+### 1. [Airbyte](https://github.com/airbytehq/airbyte) [![GitHub_Stars](https://img.shields.io/github/stars/airbytehq/airbyte?style=social&color=white)](https://github.com/airbytehq/airbyte/stargazers)
 * **Stack:** Java / Python / Kotlin | **License:** MIT / Elastic License  
 * **Capabilities:** Leading open-source data integration platform with hundreds of pre-built connectors. Extracts and replicates XML, JSON, and unstructured data streams from APIs, file systems, and enterprise data warehouses.  
 * **Best For:** Modern ELT data engineering pipelines requiring scalable XML feed ingestion into Snowflake, BigQuery, or Databricks.
 
-### 2. [Apache Camel](https://github.com/apache/camel) [![GitHub stars](https://img.shields.io/github/stars/apache/camel?style=social&color=white)](https://github.com/apache/camel/stargazers)
+### 2. [Apache Camel](https://github.com/apache/camel) [![GitHub_Stars](https://img.shields.io/github/stars/apache/camel?style=social&color=white)](https://github.com/apache/camel/stargazers)
 * **Stack:** Java | **License:** Apache 2.0  
 * **Capabilities:** Battle-tested Enterprise Integration Patterns (EIP) framework in production since 2007. Features **350+ native connectors** and supports route definitions in Java, YAML, or XML. Camel K provides Kubernetes-native deployments and Camel Karavan delivers low-code visual route orchestration.  
 * **Best For:** Java and enterprise teams seeking an Apache-governed runtime for complex routing and XML message transformation.
 
-### 3. [node-xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) [![GitHub stars](https://img.shields.io/github/stars/Leonidas-from-XIV/node-xml2js?style=social&color=white)](https://github.com/Leonidas-from-XIV/node-xml2js/stargazers)
+### 3. [node-xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) [![GitHub_Stars](https://img.shields.io/github/stars/Leonidas-from-XIV/node-xml2js?style=social&color=white)](https://github.com/Leonidas-from-XIV/node-xml2js/stargazers)
 * **Stack:** JavaScript / Node.js | **License:** MIT  
 * **Capabilities:** Simple, bidirectional XML-to-JavaScript object converter. Built upon `sax-js`, making it an industry staple for converting XML payloads in REST/SOAP microservices.  
 * **Best For:** Node.js backend developers requiring lightweight, zero-dependency XML-to-JSON parsing.
 
-### 4. [pugixml](https://github.com/zeux/pugixml) [![GitHub stars](https://img.shields.io/github/stars/zeux/pugixml?style=social&color=white)](https://github.com/zeux/pugixml/stargazers)
+### 4. [pugixml](https://github.com/zeux/pugixml) [![GitHub_Stars](https://img.shields.io/github/stars/zeux/pugixml?style=social&color=white)](https://github.com/zeux/pugixml/stargazers)
 * **Stack:** C++ | **License:** MIT  
 * **Capabilities:** Extremely fast, lightweight C++ XML processing library featuring a DOM-like interface with rich XPath 1.0 support. Renowned for its minimal memory footprint and blistering execution speed in high-throughput engines.  
 * **Best For:** High-performance, latency-sensitive applications requiring embedded C/C++ XML parsing.
 
-### 5. [fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) [![GitHub stars](https://img.shields.io/github/stars/NaturalIntelligence/fast-xml-parser?style=social&color=white)](https://github.com/NaturalIntelligence/fast-xml-parser/stargazers)
+### 5. [fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) [![GitHub_Stars](https://img.shields.io/github/stars/NaturalIntelligence/fast-xml-parser?style=social&color=white)](https://github.com/NaturalIntelligence/fast-xml-parser/stargazers)
 * **Stack:** JavaScript / TypeScript | **License:** MIT  
 * **Capabilities:** High-speed XML parser and validator written in pure JavaScript without C/C++ native dependencies. Supports XML validation, XML-to-JSON transformation, JSON-to-XML serialization, and schema preservation.  
 * **Best For:** High-volume Node.js microservices and client-side web apps needing fast XML translation.
 
-### 6. [lxml](https://github.com/lxml/lxml) [![GitHub stars](https://img.shields.io/github/stars/lxml/lxml?style=social&color=white)](https://github.com/lxml/lxml/stargazers)
+### 6. [lxml](https://github.com/lxml/lxml) [![GitHub_Stars](https://img.shields.io/github/stars/lxml/lxml?style=social&color=white)](https://github.com/lxml/lxml/stargazers)
 * **Stack:** Python / C (libxml2 & libxslt) | **License:** BSD  
 * **Capabilities:** The most powerful, feature-complete XML and HTML processing library for Python. Combines libxml2 speed with a Pythonic ElementTree API. Full support for XPath 1.0, XSLT 1.0, XML Schema (XSD), and RELAX NG.  
 * **Best For:** Python data scientists and backend engineers requiring robust XML validation and complex XSLT transforms.
 
-### 7. [quick-xml](https://github.com/tafia/quick-xml) [![GitHub stars](https://img.shields.io/github/stars/tafia/quick-xml?style=social&color=white)](https://github.com/tafia/quick-xml/stargazers)
+### 7. [quick-xml](https://github.com/tafia/quick-xml) [![GitHub_Stars](https://img.shields.io/github/stars/tafia/quick-xml?style=social&color=white)](https://github.com/tafia/quick-xml/stargazers)
 * **Stack:** Rust | **License:** MIT  
 * **Capabilities:** High-performance pull-based XML parser and serializer in Rust. Provides zero-copy parsing, streaming reading and writing, and full `serde` integration for effortless struct mapping.  
 * **Best For:** Rust developers seeking maximum memory efficiency and CPU throughput for multi-gigabyte XML datasets.
 
-### 8. [BaseX](https://github.com/BaseXdb/basex) [![GitHub stars](https://img.shields.io/github/stars/BaseXdb/basex?style=social&color=white)](https://github.com/BaseXdb/basex/stargazers)
+### 8. [BaseX](https://github.com/BaseXdb/basex) [![GitHub_Stars](https://img.shields.io/github/stars/BaseXdb/basex?style=social&color=white)](https://github.com/BaseXdb/basex/stargazers)
 * **Stack:** Java | **License:** BSD 3-Clause  
 * **Capabilities:** Robust, lightweight, high-performance XML database engine and XPath/XQuery 3.1 processor. Provides a complete client/server architecture for querying, indexing, and processing vast document collections.  
 * **Best For:** Enterprises managing deep hierarchical XML documents requiring full-text search and XQuery analytics.
 
-### 9. [Jackson Dataformat XML](https://github.com/FasterXML/jackson-dataformat-xml) [![GitHub stars](https://img.shields.io/github/stars/FasterXML/jackson-dataformat-xml?style=social&color=white)](https://github.com/FasterXML/jackson-dataformat-xml/stargazers)
+### 9. [Jackson Dataformat XML](https://github.com/FasterXML/jackson-dataformat-xml) [![GitHub_Stars](https://img.shields.io/github/stars/FasterXML/jackson-dataformat-xml?style=social&color=white)](https://github.com/FasterXML/jackson-dataformat-xml/stargazers)
 * **Stack:** Java | **License:** Apache 2.0  
 * **Capabilities:** Standard Jackson extension that enables reading and writing XML using Jackson data-binding annotations. Seamlessly converts XML directly into POJOs alongside JSON configurations.  
 * **Best For:** Spring Boot and Java backend services wanting unified JSON/XML serialization pipelines.
 
-### 10. [Cenit IO](https://github.com/cenit-io/cenit) [![GitHub stars](https://img.shields.io/github/stars/cenit-io/cenit?style=social&color=white)](https://github.com/cenit-io/cenit/stargazers)
+### 10. [Cenit IO](https://github.com/cenit-io/cenit) [![GitHub_Stars](https://img.shields.io/github/stars/cenit-io/cenit?style=social&color=white)](https://github.com/cenit-io/cenit/stargazers)
 * **Stack:** Ruby (Rails) / MongoDB / RabbitMQ | **License:** MIT  
 * **Capabilities:** Open-source Integration Platform as a Service (iPaaS) for orchestrating data flows, triggering webhooks, and managing enterprise pipelines. Transforms across **JSON, XML, EDIFACT, X12, and UBL**.  
 * **Best For:** Organizations seeking a self-hosted open-source iPaaS capable of bridging legacy EDI and modern XML data.
 
-### 11. [eXist-db](https://github.com/eXist-db/exist) [![GitHub stars](https://img.shields.io/github/stars/eXist-db/exist?style=social&color=white)](https://github.com/eXist-db/exist/stargazers)
+### 11. [eXist-db](https://github.com/eXist-db/exist) [![GitHub_Stars](https://img.shields.io/github/stars/eXist-db/exist?style=social&color=white)](https://github.com/eXist-db/exist/stargazers)
 * **Stack:** Java | **License:** LGPL-2.1  
 * **Capabilities:** Native open-source XML database solution built completely around XML technologies. Supports XQuery 3.1, XPath, XSLT, and native schema indexing for structured and semi-structured documents.  
 * **Best For:** Digital humanities, document management systems, and XML-first archival stores.
 
-### 12. [Smooks](https://github.com/smooks/smooks) [![GitHub stars](https://img.shields.io/github/stars/smooks/smooks?style=social&color=white)](https://github.com/smooks/smooks/stargazers)
+### 12. [Smooks](https://github.com/smooks/smooks) [![GitHub_Stars](https://img.shields.io/github/stars/smooks/smooks?style=social&color=white)](https://github.com/smooks/smooks/stargazers)
 * **Stack:** Java | **License:** Apache 2.0 / LGPL  
 * **Capabilities:** Extensible Java-based data processing engine for XML, EDI, CSV, and JSON. Utilizes an event-driven stream pipeline architecture to transform, enrich, and filter complex records without loading whole DOMs into memory.  
 * **Best For:** High-volume Java event streaming and legacy EDI-to-XML data enrichment pipelines.
 
-### 13. [QXmlEdit](https://github.com/lbellonda/qxmledit) [![GitHub stars](https://img.shields.io/github/stars/lbellonda/qxmledit?style=social&color=white)](https://github.com/lbellonda/qxmledit/stargazers)
+### 13. [QXmlEdit](https://github.com/lbellonda/qxmledit) [![GitHub_Stars](https://img.shields.io/github/stars/lbellonda/qxmledit?style=social&color=white)](https://github.com/lbellonda/qxmledit/stargazers)
 * **Stack:** C++ / Qt | **License:** LGPL v2  
 * **Capabilities:** Graphical cross-platform XML editor and visual XSD viewer. Features rare visual modes, large-file splitting (multi-gigabyte chunks), Base64 encoding tools, and XML diff comparisons.  
 * **Best For:** Desktop engineers and system administrators needing a graphical editor to visualize schemas and split oversized XML logs.
 
-### 14. [PolyXML](https://github.com/nth-bailey/PolyXML) [![GitHub stars](https://img.shields.io/github/stars/nth-bailey/PolyXML?style=social&color=white)](https://github.com/nth-bailey/PolyXML/stargazers)
+### 14. [PolyXML](https://github.com/nth-bailey/PolyXML) [![GitHub_Stars](https://img.shields.io/github/stars/nth-bailey/PolyXML?style=social&color=white)](https://github.com/nth-bailey/PolyXML/stargazers)
 * **Stack:** Rust (core) / Python / Go / Java / Node.js | **License:** MIT  
 * **Capabilities:** Polyglot native XML data-binding engine designed for zero DOM allocation parsing. Uses `quick-xml` reader events and `iterparse` streaming for O(1) constant-memory processing of massive files.  
 * **Best For:** Multi-language microservice environments needing high-performance XML streaming.
 
-### 15. [RAXB](https://github.com/hd-gmbh-dev/raxb) [![GitHub stars](https://img.shields.io/github/stars/hd-gmbh-dev/raxb?style=social&color=white)](https://github.com/hd-gmbh-dev/raxb/stargazers)
+### 15. [RAXB](https://github.com/hd-gmbh-dev/raxb) [![GitHub_Stars](https://img.shields.io/github/stars/hd-gmbh-dev/raxb?style=social&color=white)](https://github.com/hd-gmbh-dev/raxb/stargazers)
 * **Stack:** Rust | **License:** MIT  
 * **Capabilities:** The Rust Architecture for XML Binding automates bidirectional marshalling between XML documents and type-safe Rust structures.  
 * **Best For:** Rust developers building reliable, strongly typed XML serialization layers.
 
-### 16. [xMLTree](https://github.com/ehitimum/xMLTree) [![GitHub stars](https://img.shields.io/github/stars/ehitimum/xMLTree?style=social&color=white)](https://github.com/ehitimum/xMLTree/stargazers)
+### 16. [xMLTree](https://github.com/ehitimum/xMLTree) [![GitHub_Stars](https://img.shields.io/github/stars/ehitimum/xMLTree?style=social&color=white)](https://github.com/ehitimum/xMLTree/stargazers)
 * **Stack:** Python | **License:** MIT  
 * **Capabilities:** Lightweight XML tree editor with an integrated Excel column extractor. Allows fast tree traversal, attribute searching, and bulk XML updates.  
 * **Best For:** Quick tree-view XML inspections and extracting tabular data from spreadsheets.
 
-### 17. [XML Copy Editor](https://github.com/Distrotech/xmlcopyeditor) [![GitHub stars](https://img.shields.io/github/stars/Distrotech/xmlcopyeditor?style=social&color=white)](https://github.com/Distrotech/xmlcopyeditor/stargazers)
+### 17. [XML Copy Editor](https://github.com/Distrotech/xmlcopyeditor) [![GitHub_Stars](https://img.shields.io/github/stars/Distrotech/xmlcopyeditor?style=social&color=white)](https://github.com/Distrotech/xmlcopyeditor/stargazers)
 * **Stack:** C++ / wxWidgets | **License:** GPL v2  
 * **Capabilities:** Fast, validating XML desktop editor focused on DTD, XML Schema, and RELAX NG validation. Includes tag locking, pretty printing, and Microsoft Word document conversion.  
 * **Best For:** Technical writers and document architects working with DITA, DocBook, and schema-strict XML.
